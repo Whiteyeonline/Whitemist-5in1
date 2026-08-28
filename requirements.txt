@@ -1,6 +1,6 @@
-streamlit
-requests
-beautifulsoup4
-google-genai
-pandas
-plotly
+streamlit>=1.61.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+google-genai>=2.18.0
+pandas>=2.0.0
+plotly>=6.9.0
